@@ -1,0 +1,82 @@
+[
+  {
+    "event_date": "2026-07-02",
+    "source": "BLS / CNBC / Schwab",
+    "headline": "6月非农新增就业仅5.7万，远低于预期11.5万；失业率4.2%，劳动参与率降至61.5%",
+    "symbols": ["SPY", "DIA", "QQQ", "TLT"],
+    "sector": "macro",
+    "sentiment": "mixed",
+    "impact": 5,
+    "note": "就业放缓令加息担忧降温，利率维持不变概率上升；利好防御与利率敏感板块"
+  },
+  {
+    "event_date": "2026-07-02",
+    "source": "TheStreet / Yahoo Finance",
+    "headline": "道指创历史新高（单日涨近600点/+1.1%），资金从AI芯片轮动至蓝筹与防御板块",
+    "symbols": ["DIA", "XLU", "XLV", "XLP"],
+    "sector": "rotation",
+    "sentiment": "bullish_defensive",
+    "impact": 4,
+    "note": "公用事业、医疗保健、必需消费当周各涨逾2%；成长股/科技落后"
+  },
+  {
+    "event_date": "2026-07-02",
+    "source": "Schwab Weekly Trader's Outlook",
+    "headline": "费城半导体指数SOX单日跌近7%，两日累计跌逾12%；机构对科技板块持谨慎立场，预计下周波动率升高",
+    "symbols": ["SOXX", "NVDA", "AMD", "AVGO"],
+    "sector": "semiconductors",
+    "sentiment": "bearish",
+    "impact": 5,
+    "note": "半导体动能破位，回避或等待企稳；下周技术面主导"
+  },
+  {
+    "event_date": "2026-07-02",
+    "source": "Investing.com",
+    "headline": "Rivian Q2交付超预期，上调2026全年交付指引至6.5万-7万辆（原6.2万-6.7万），股价涨约13-15%至$19.38",
+    "symbols": ["RIVN"],
+    "sector": "ev",
+    "sentiment": "bullish",
+    "impact": 4,
+    "note": "需求强于预期；指引上调为持续性催化剂"
+  },
+  {
+    "event_date": "2026-07-02",
+    "source": "Benzinga",
+    "headline": "SurgePays修订批发协议、解除最低消费压力，股价单日涨逾35%",
+    "symbols": ["SURG"],
+    "sector": "fintech_smallcap",
+    "sentiment": "bullish",
+    "impact": 3,
+    "note": "小盘高波动，涨幅已大，谨防追高回吐"
+  },
+  {
+    "event_date": "2026-07-02",
+    "source": "ChartMill",
+    "headline": "AeroVironment涨13.6%、Infleqtion涨10.5%；Ouster跌9.5%、Oruka跌8.5%、Vera Therapeutics跌8.2%",
+    "symbols": ["AVAV", "INFQ", "OUST", "ORKA", "VERA"],
+    "sector": "movers",
+    "sentiment": "mixed",
+    "impact": 3,
+    "note": "国防股AVAV受地缘局势提振"
+  },
+  {
+    "event_date": "2026-07-03",
+    "source": "Wikipedia / CNBC",
+    "headline": "伊朗战争燃油危机持续：4月停火后以伊再度互射导弹，Brent一度涨4.9%至$97.67，WTI $94.93；霍尔木兹海峡船运仍远低于战前",
+    "symbols": ["XLE", "XOM", "CVX", "OXY", "USO"],
+    "sector": "energy",
+    "sentiment": "bullish",
+    "impact": 5,
+    "note": "油价高位+地缘溢价，能源与国防板块顺风；中国减少约300万桶/日进口是最大缓冲"
+  },
+  {
+    "event_date": "2026-07-03",
+    "source": "Kiplinger / EarningsWhispers",
+    "headline": "下周（7/6-7/10）财报与经济日历清淡，周一无重要财报；Q2财报季7月第二周正式开启，FactSet预计S&P500 Q2盈利同比增22%",
+    "symbols": ["SPY"],
+    "sector": "macro",
+    "sentiment": "neutral",
+    "impact": 2,
+    "note": "缺乏日历催化，中东局势、油价、收益率将主导短线方向"
+  }
+]
